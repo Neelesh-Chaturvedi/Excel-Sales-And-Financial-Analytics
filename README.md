@@ -25,3 +25,9 @@ This helps AtliQ understand how they are doing financially, aiding in making sma
 * Also made a report to analyze Gross Margin percentage (GM%) by Quarters (sub_zone).
 
 * Finally made a detailed report to evaluate different things such as the Top 10 Products that are doing very well, Division Level Report, Top and Bottom 5 Products, and Top 5 countries.
+
+Technical & Soft Skills:
+ Proficiency in ETL Methodology (Extract, Transform, Load): Expertise in extracting and transforming data for robust analytics.
+ Power Query: Skills in generating date tables and deriving fiscal months and quarters.
+ Power Pivot: Establishing data model relationships and incorporating supplementary data for a comprehensive analysis.
+ DAX (Data Analysis Expressions): Creating calculated columns for advanced analytics.
