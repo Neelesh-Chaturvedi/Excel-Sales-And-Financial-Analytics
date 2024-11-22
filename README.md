@@ -28,7 +28,7 @@ This helps AtliQ understand how they are doing financially, aiding in making sma
 
 Technical & Soft Skills:
 
-Proficiency in ETL Methodology (Extract, Transform, Load): Expertise in extracting and transforming data for robust analytics.
-Power Query: Skills in generating date tables and deriving fiscal months and quarters.
-Power Pivot: Establishing data model relationships and incorporating supplementary data for a comprehensive analysis.
-DAX (Data Analysis Expressions): Creating calculated columns for advanced analytics.
+#Proficiency in ETL Methodology (Extract, Transform, Load): Expertise in extracting and transforming data for robust analytics.
+#Power Query: Skills in generating date tables and deriving fiscal months and quarters.
+#Power Pivot: Establishing data model relationships and incorporating supplementary data for a comprehensive analysis.
+#DAX (Data Analysis Expressions): Creating calculated columns for advanced analytics.
